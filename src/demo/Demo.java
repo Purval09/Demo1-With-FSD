@@ -15,7 +15,7 @@ public class Demo {
      */
     //gfghf
 
-    
+    System.out.print("HELLO")
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("hello java" + " you are king of annoying");
